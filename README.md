@@ -1,3 +1,6 @@
+#Admin Email :admin@primetrade.ai
+#Admin password :Admin@1234
+
 # 🚀 PrimeTrade API & Task Management Platform
 
 ![Node.js](https://img.shields.io/badge/Node.js-v20+-green?style=for-the-badge&logo=node.js)
