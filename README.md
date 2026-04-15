@@ -1,5 +1,5 @@
-#Admin Email :admin@primetrade.ai
-#Admin password :Admin@1234
+# Admin Email :admin@primetrade.ai
+# Admin password :Admin@1234
 
 # 🚀 PrimeTrade API & Task Management Platform
 
